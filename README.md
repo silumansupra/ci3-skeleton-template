@@ -1,19 +1,15 @@
-# ci-skeleton-template
-Codeigniter 3x HMVC Skeleton with Dashboard Admin Templates
+# Codeigniter 3x Skeleton
+## _with admin dashboard template
 
-how to initiate template files
-------------------------------
-$this->load->view('templates/mainview', $data);
+CI3xSkeletonTemplate is an various admin dashboard templates based on Bootstrap 4 Template,
+CodeIgniter 3x PHP Framework.
 
-Structure of views/ directory
-------------------------------
-- views/
-	-templates/
-		- includes/
-			- sidebar.php
-			- navbar.php
-			- header.php
-			- footer.php
-			- (other files...)
-		- mainview.php
-		- (other files...)
+## Features
+- HMVC Module
+- Template Helper
+- Additional templates (Bootstrap 4)
+- REST-API (next ... )
+
+## Installation
+Typing ...
+
